@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hi, I'm a professional UI designer. aslo i'm part of the Slime Team game dev collective.
+Hi, I'm a professional UI designer, also i'm part of the Slime Team game dev collective.
 
 ### Working on
 
